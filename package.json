@@ -1,0 +1,24 @@
+{
+  "name": "front-end-web-development-c1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evinracher/full-stack-web-development-c1.git"
+  },
+  "author": "evinracher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evinracher/full-stack-web-development-c1/issues"
+  },
+  "homepage": "https://github.com/evinracher/full-stack-web-development-c1#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
